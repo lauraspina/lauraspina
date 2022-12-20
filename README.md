@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate frontend developer based in Amsterdam</h3>
 
-- 🔭 I’m currently working [for Bravoure](https://bravoure.nl/en/)
+- 🇳🇱 I’m currently working [for Bravoure](https://bravoure.nl/en/)
+
+- 👩🏼‍💻 Take a look at my [website](https://lauraspinadev.web.app/)
 
 - 🌱 I’m currently learning **Typescript**
 
-- ⚡ Fun fact **I'm a very good cook**
+- 🇮🇹 Fun fact **I'm a very good cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
