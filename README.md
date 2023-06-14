@@ -5,7 +5,7 @@
 
 - 👩🏼‍💻 Take a look at my [website](https://lauraspinadev.web.app/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Python**
 
 - 🇮🇹 Fun fact **I'm a very good cook**
 
