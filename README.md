@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate frontend developer based in Amsterdam</h3>
 
-- 🇳🇱 I’m currently working [for Bravoure](https://bravoure.nl/en/)
+- 🇫🇷 I’m based in Paris
 
 - 👩🏼‍💻 Take a look at my [website](https://lauraspinadev.web.app/)
 
